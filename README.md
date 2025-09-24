@@ -4,7 +4,7 @@
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
-| ![Source Code]Screenshot 2025-08-13 at 2.02_edited.jpg | ![Codeberg Rendering](https://via.placeholder.com/400x500?text=Codeberg+Rendering) |
+| ![Source Code]   | ![Codeberg Rendering](https://via.placeholder.com/400x500?text=Codeberg+Rendering) |
 
 ---
 
