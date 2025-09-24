@@ -4,7 +4,7 @@
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
-| ![Source Code](./images/Image1.png) | ![Codeberg Rendering](./images/codeberg-rendering.png) |
+| ![Source Code](Image1.png) | ![Codeberg Rendering](./images/codeberg-rendering.png) |
 
 ---
 
