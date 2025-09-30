@@ -2,7 +2,7 @@
 
 ## Source Code vs. Codeberg Rendering
 
-## For more details, visit my portfolio https://stewartecleo.wixsite.com/website-5
+## For more details, visit my portfolio https://stewartecleo.wixsite.com/portfolio
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
