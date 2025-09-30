@@ -2,8 +2,7 @@
 
 ## Source Code vs. Codeberg Rendering
 
-Visit my portfilio to learn more [
-](https://stewartecleo.wixsite.com/website-5)
+Visit my portfilio to learn more (https://stewartecleo.wixsite.com/website-5)
 
 | Source Code | Codeberg Rendering |
 |-------------|--------------------|
